@@ -25,6 +25,7 @@ Users should be able to:
 ![desktop preview](image.png)
 
 - Mobile Preview
+  
 ![mobile preview](image-1.png)
 
 
