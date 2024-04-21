@@ -31,9 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: https://manjirigole.github.io/Social-links-profile/
+- Live Site URL: https://www.frontendmentor.io/solutions/responsive-landing-page-with-css-kFeuMiNFA5
 
 ### Built with
 
