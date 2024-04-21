@@ -21,10 +21,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-Desktop Preview
+- Desktop Preview
 ![desktop preview](image.png)
 
-Mobile Preview
+- Mobile Preview
 ![mobile preview](image-1.png)
 
 
